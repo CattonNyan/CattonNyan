@@ -1,6 +1,10 @@
 <h1 align="center">👋 안녕하세요, 개발자 김경민입니다! 👋</h1>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/c08be198-c3a6-4648-bec3-88e48123b364" alt="Terminal GIF">
+</p>
+
+<p align="center">
   <b>여러가지 공부하는 것을 좋아하는 유랑민 스타일로,</b><br>
   데이터 분석, 보안, 클라우드 기술에도 관심이 많은 개발자입니다.
 </p>
