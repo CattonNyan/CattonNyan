@@ -21,14 +21,14 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-4B6EAF?style=flat-square&logo=ghidra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-E53935?style=flat-square&logoColor=white" alt="Ghidra"/>
 </p>
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ghidra_Logo.png" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
 </p>
 
 ---
