@@ -28,7 +28,7 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Ghidra_Logo.png" width="60" height="60"/>
 </p>
 
 ---
