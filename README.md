@@ -48,6 +48,14 @@
 
 - **명지대학교 컴퓨터정보통신공학부 정보통신공학전공**
 
+### 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+
+---
+
 ### 📬 Contact Me
 
 <p align="center">
