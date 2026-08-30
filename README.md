@@ -25,22 +25,13 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <p><b>"여러 가지를 탐구하고 실전에 적용하는 것을 즐기는 유랑민 스타일 개발자입니다."</b></p>
-      <ul>
-        <li>🎓 <b>Education</b>: 명지대학교 컴퓨터정보통신공학부 정보통신공학전공</li>
-        <li>🌱 <b>Focus Areas</b>: 클라우드 인프라(AWS/GCP), 데이터 엔지니어링, 정보보안 및 취약점 분석, AI 응용 서비스</li>
-        <li>💡 <b>Interests</b>: 퀀트 트레이딩 봇, 시스템 자동화, 모던 오픈소스 아키텍처</li>
-        <li>💬 <b>Ask Me About</b>: Python, Java, Docker, Linux & Security</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/c08be198-c3a6-4648-bec3-88e48123b364" alt="Terminal GIF" width="90%"/>
-    </td>
-  </tr>
-</table>
+> **"여러 가지를 탐구하고 실전에 적용하는 것을 즐기는 유랑민 스타일 개발자입니다."**  
+> 데이터 분석, 보안, 클라우드 및 AI 기술에 깊은 관심을 가지고 있습니다.
+
+* 🎓 **Education**: 명지대학교 컴퓨터정보통신공학부 정보통신공학전공
+* 🌱 **Focus Areas**: 클라우드 인프라 (AWS, GCP), 데이터 엔지니어링 & 분석 자동화, 정보보안 및 취약점 진단, AI 응용 서비스
+* 💡 **Interests**: 퀀트 트레이딩 시스템, 백엔드 자동화 파이프라인, 모던 오픈소스 아키텍처
+* 💬 **Ask Me About**: Python, Java, Docker, Linux & Security
 
 ---
 
@@ -66,25 +57,6 @@
 | **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> |
 
 </details>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <a href="https://github.com/CattonNyan">
-    <img src="https://github-readme-stats.vercel.app/api?username=CattonNyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155"/>
-  </a>
-  <a href="https://github.com/CattonNyan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CattonNyan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="155"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/CattonNyan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CattonNyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="140"/>
-  </a>
-</div>
 
 ---
 
