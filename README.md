@@ -134,23 +134,6 @@
 
 <br/>
 
-### 📊 GitHub Activity & Stats
-
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=CattonNyan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CattonNyan's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CattonNyan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CattonNyan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
 <br/>
 
 ### 🧊 3D Contribution Galaxy
