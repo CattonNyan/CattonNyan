@@ -18,18 +18,12 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Education**: 명지대학교 컴퓨터정보통신공학부 정보통신공학전공
-- 🔭 **Focus**: 데이터 분석 & 엔지니어링 파이프라인, 클라우드 인프라 (AWS / GCP), 시스템 보안
-- 💡 **Interests**: 퀀트 자산배분 및 자동화 트레이딩 시스템, 스마트제조 데이터 분석, 모던 오픈소스 아키텍처
-- 💬 **Ask Me About**: Python, Java, PostgreSQL/MySQL, Docker, Linux, System Automation
-
----
-
 ### 💼 Experience
-- 🏢 **Younglimwon Softlab** | 기반기술연구소 *(2026.01 ~ 2026.02, 2026.08 ~ Present)*
+- 🏢 **Younglimwon Softlab** | R&D Center (기반기술연구소) *(2026.01 ~ 2026.02, 2026.08 ~ Present)*
+- 🛍️ **Shopee** | Outstanding Seller in Shopee Incubation Program *(2025.04)*
 - 🔋 **POSCO FUTURE M** | Chemical *(2023.10 ~ 2024.03)*
 - 🚗 **Hyundai Motor Company** | H-Stylist *(2021.02 ~ 2021.03)*
+- 🎬 **YouTube Creator & Operator** | Built & managed 2 channels with 40K+ and 26K+ subscribers
 
 ---
 
