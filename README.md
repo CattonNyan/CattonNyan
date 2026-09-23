@@ -26,6 +26,13 @@
 
 ---
 
+### 💼 Experience
+- 🏢 **Younglimwon Softlab** | 기반기술연구소 *(2026.01 ~ 2026.02, 2026.08 ~ Present)*
+- 🔋 **POSCO FUTURE M** | Chemical *(2023.10 ~ 2024.03)*
+- 🚗 **Hyundai Motor Company** | H-Stylist *(2021.02 ~ 2021.03)*
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,postgres,mysql,docker,linux,kali,git,github,aws,gcp&perline=13&theme=dark" alt="Tech Stack"/>
