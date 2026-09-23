@@ -27,7 +27,3 @@
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,postgres,mysql,docker,linux,kali,git,github,aws,gcp&perline=13&theme=dark" alt="Tech Stack"/>
 </p>
 
----
-<p align="center">
-  <sub>© 2026 Kyung Min Kim. All rights reserved.</sub>
-</p>
