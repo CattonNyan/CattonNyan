@@ -19,7 +19,7 @@
 ---
 
 ### 💼 Experience
-- 🏢 **Younglimwon Softlab** | R&D Center (기반기술연구소) *(2026.01 ~ 2026.02, 2026.08 ~ Present)*
+- 🏢 **Younglimwon Softlab** | Core Technology R&D Center *(2026.01 ~ 2026.02, 2026.08 ~ Present)*
 - 🛍️ **Shopee** | Outstanding Seller in Shopee Incubation Program *(2025.04)*
 - 🔋 **POSCO FUTURE M** | Chemical *(2023.10 ~ 2024.03)*
 - 🚗 **Hyundai Motor Company** | H-Stylist *(2021.02 ~ 2021.03)*
