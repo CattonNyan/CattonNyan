@@ -13,12 +13,18 @@
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 - 🏢 **Younglimwon Softlab** | Core Technology R&D Center *(2026.01 ~ 2026.02, 2026.08 ~ Present)*
-- 🛍️ **Shopee** | Outstanding Seller in Shopee Incubation Program *(2025.04)*
 - 🔋 **POSCO FUTURE M** | Chemical *(2023.10 ~ 2024.03)*
 - 🚗 **Hyundai Motor Company** | H-Stylist *(2021.02 ~ 2021.03)*
+
+---
+
+### 🚀 Personal Ventures
+- 🛍️ **Shopee** | Outstanding Seller in Shopee Incubation Program *(2025.04)*
 - 🎬 **YouTube Creator & Operator** | Built & managed 2 channels with 40K+ and 26K+ subscribers
+- 🌐 **WordPress & Google AdSense** | Built self-hosted blogs & monetized traffic via AdSense
+- 🐾 **Coupang Partners** | Top 30% affiliate performance in Pet Supplies category
 
 ---
 
