@@ -28,14 +28,6 @@
 </p>
 
 ---
-
-### 🧊 3D Contribution Galaxy
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=20260923_1245" alt="3D Contribution Graph" width="100%"/>
-</p>
-
----
 <p align="center">
   <sub>© 2026 Kyung Min Kim. All rights reserved.</sub>
 </p>
