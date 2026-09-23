@@ -16,6 +16,7 @@
 ### 💼 Professional Experience
 - 🏢 **Younglimwon Softlab** | Core Technology R&D Center *(2026.01 ~ 2026.02, 2026.08 ~ Present)*
 - 🔋 **POSCO FUTURE M** | Chemical *(2023.10 ~ 2024.03)*
+- ⚡ **Red Bull Korea** | Student Marketeer *(2021.09 ~ 2022.01)*
 - 🚗 **Hyundai Motor Company** | H-Stylist *(2021.02 ~ 2021.03)*
 
 ---
