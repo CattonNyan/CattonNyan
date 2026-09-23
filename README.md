@@ -1,11 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kyung Min Kim (`@CattonNyan`)
-
-<p>
-  <strong>Continuous Learner & System Builder</strong><br/>
-  Data Engineering • Cloud Infrastructure • Information Security • AI Applications
-</p>
+# Kyung Min Kim
 
 <p>
   <a href="mailto:kkm305021@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
